@@ -1,0 +1,65 @@
+/* css/about.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#profile-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#profile-section h2 {
+    color: #333;
+}
+
+#profile-section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#profile-section .profile-info {
+    margin-top: 20px;
+}
+
+#profile-section .profile-info p {
+    line-height: 1.6;
+}
+
+#experience-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#experience-section h2 {
+    color: #333;
+}
+
+#experience-section .experience-info {
+    margin-top: 20px;
+}
+
+#experience-section .experience-info p {
+    line-height: 1.6;
+}
+
+#contact-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#contact-section h2 {
+    color: #333;
+}
+
+#contact-section .contact-info {
+    margin-top: 20px;
+}
+
+#contact-section .contact-info p {
+    line-height: 1.6;
+}
